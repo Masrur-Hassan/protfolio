@@ -1,0 +1,99 @@
+* {
+    background-color: rgb(20, 33, 41);
+    color: whitesmoke;
+    margin: auto;
+    padding: auto;
+
+}
+
+#welcome {
+    background-color: #b10606;
+    padding: 20px 0px 20px 0px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    width: 25%;
+    border-radius: 80px 0px 80px 0px;
+    text-align: center;
+    border: 10px outset white;
+}
+
+#description {
+    color: aqua;
+    margin: 0% 29%;
+    font-size: 20px;
+    text-align: justify;
+}
+
+h4 {
+    margin: 20px 10px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+}
+
+#cv {
+
+    background-color: #b10606;
+    border: 3px inset white;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    font-size: medium;
+    border-radius: 10px 0px 10px 0px;
+    margin: 1% 46%;
+    font-weight: bold;
+}
+
+#cv:hover {
+
+    background-color: white;
+    border: 3px inset #b10606;
+    color: rgb(20, 33, 41);
+    padding: 10px 15px 10px 15px;
+    font-size: medium;
+    border-radius: 10px 0px 10px 0px;
+    margin: 1% 46%;
+    font-weight: bold;
+    transition: .4s;
+}
+
+img {
+    margin: 0% 30%;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(20, 33, 41);
+    background-color: white;
+    border: 3px dashed #b10606;
+    width: 100%;
+
+}
+
+ul {
+    width: 90%;
+}
+
+ul li {
+
+    text-align: justify;
+    margin: 10px;
+
+}
+
+ul li p {
+    color: aqua;
+    font-size: 18px;
+    font-style: italic;
+
+}
+
+footer {
+    padding: 10px 0px;
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(20, 33, 41);
+    font-size: 30px;
+    background-color: white;
+    border: 3px dashed #b10606;
+    width: 100%;
+}
